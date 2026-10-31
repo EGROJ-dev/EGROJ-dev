@@ -15,5 +15,5 @@ Moro em São Paulo e estou aprendendo desenvolvimento de software, com foco em *
 
 ## Contato
 
-- LinkedIn: [Jorge Gabriel Cordeiro](https://www.linkedin.com/in/jorge-gabriel-cordeiro-9b25702b)
+- LinkedIn: [Jorge Gabriel Cordeiro do Nascimento](https://www.linkedin.com/in/jorge-gabriel-cordeiro-do-nascimento-9b25702b7/)
 - E-mail: jorge.gabrielsgj@gmail.com
