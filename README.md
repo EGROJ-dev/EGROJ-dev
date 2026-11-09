@@ -1,7 +1,3 @@
-<!--
-  DICA GitAscii: monte um banner em gitascii.com, exporte o Markdown e cole aqui, antes do título.
--->
-
 <div align="center">
 
 # Oi, eu sou o Jorge 👋
