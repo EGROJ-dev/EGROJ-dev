@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/EGROJ-dev/EGROJ-dev/main/banner.gif" alt="Jorge Gabriel - Estudante de Engenharia de Software - Back-end com Java" width="100%">
+
 # Oi, eu sou o Jorge 👋
 
 **Estudante de Engenharia de Software | Desenvolvedor Back-end Java**
@@ -30,6 +32,12 @@ Moro em São Paulo e estudo **Engenharia de Software**, com foco em **desenvolvi
 | [Biblioteca JDBC](https://github.com/EGROJ-dev/biblioteca-jdbc) | Empréstimo de livros com banco de dados | JDBC, DAO, transações e `JOIN` |
 | [Controle Financeiro](https://github.com/EGROJ-dev/controle-financeiro) | Receitas, despesas e relatório mensal | SQL com `GROUP BY` e exportação em CSV |
 | [API de Produtos](https://github.com/EGROJ-dev/api-produtos-java) | API REST em Java puro | Rotas HTTP, status e testes de ponta a ponta |
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/EGROJ-dev/EGROJ-dev/main/demo-api.gif" alt="Demonstração da API de produtos no terminal" width="100%">
+
+</div>
 
 ## 📚 O que estou estudando
 
