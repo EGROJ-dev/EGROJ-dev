@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/EGROJ-dev/EGROJ-dev/main/banner.gif" alt="Jorge Gabriel - Estudante de Engenharia de Software - Back-end com Java" width="100%">
+<img width="900" height="250" alt="banner" src="https://github.com/user-attachments/assets/bac08f8c-9dc0-4123-b593-0fd56592124d" />
 
 # Oi, eu sou o Jorge 👋
 
@@ -33,7 +33,11 @@ Moro em São Paulo e estudo **Engenharia de Software**, com foco em **desenvolvi
 | [Controle Financeiro](https://github.com/EGROJ-dev/controle-financeiro) | Receitas, despesas e relatório mensal | SQL com `GROUP BY` e exportação em CSV |
 | [API de Produtos](https://github.com/EGROJ-dev/api-produtos-java) | API REST em Java puro | Rotas HTTP, status e testes de ponta a ponta |
 
+### 🎬 API de Produtos em ação
+
 <div align="center">
+
+<img width="900" height="400" alt="demo-api" src="https://github.com/user-attachments/assets/cd67af9f-3a78-4544-9293-5c46039d6e39" />
 
 <img src="https://raw.githubusercontent.com/EGROJ-dev/EGROJ-dev/main/demo-api.gif" alt="Demonstração da API de produtos no terminal" width="100%">
 
